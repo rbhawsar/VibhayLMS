@@ -11,6 +11,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     </head>
     <body>
-    &copy; Vibhay Edutech Services Since 2014
+    &copy; XXXX XXX XXXX Since 2014
     </body>
 </html>
