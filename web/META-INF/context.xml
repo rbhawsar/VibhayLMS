@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/VibhayLMS">
+
+    <Resource name="jdbc/AuthDB" auth="Container" type="javax.sql.DataSource"
+               maxActive="100" maxIdle="30" maxWait="10000"
+               username="snigdha" password="gJp11m6h" driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:mysql://localhost:3306/vibhay"/>
+</Context>
