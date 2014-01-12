@@ -6,10 +6,15 @@
 
 package org.edu.enquiry;
 
+import org.edu.dto.EnquiryDTO;
+
 /**
  *
  * @author rabhawsa
  */
 public class EnquiryManager {
-    
+    public void saveEnquiry(EnquiryDTO equiryDTO)
+    {
+        
+    }
 }
